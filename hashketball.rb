@@ -114,5 +114,4 @@ game_hash =
     ]
   }
 }
-  
 end
