@@ -3,8 +3,8 @@ game_hash = {
   :home => {
     team_name:"Brooklyn Nets",
     colors:["Black", "White"],
-    players: {
-      "Alan Anderson" =>
+    players: [
+      "Alan Anderson" => {
         number: 0,
         shoe: 16,
         points: 22,
@@ -24,8 +24,8 @@ game_hash = {
       steals:
       blocks:
       slam_dunks:
-      ],
-  },
+      ,
+  ],
   :away => {
     :team_name => "Charlotte Hornets",
     :colors => {
