@@ -81,7 +81,14 @@ game_hash =
         slam_dunks: 10
       },
       "DeSagna Diop" => {
-        
+        number: 2, 
+        shoe: 15,
+        points: 12,
+        rebounds: 4,
+        assists: 7,
+        steals: 22,
+        blocks: 15,
+        slam_dunks: 10
       }
   }
 }
