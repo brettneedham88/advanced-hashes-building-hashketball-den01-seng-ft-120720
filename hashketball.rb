@@ -7,8 +7,8 @@ game_hash = {
       "Black", "White"
     },
     :players => [{
-      :player_name => ""
-      :number =>
+      :player_name => "Alan Anderson"
+      :number => ""
       :shoe =>
       :points =>
       :rebounds => 
