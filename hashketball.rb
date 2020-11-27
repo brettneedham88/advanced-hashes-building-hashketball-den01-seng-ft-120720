@@ -7,7 +7,7 @@ game_hash = {
       "Black", "White"
     },
     :players => [{
-      :player_name =>
+      :player_name => ""
       :number =>
       :shoe =>
       :points =>
@@ -15,7 +15,7 @@ game_hash = {
       :assists =>
       :steals =>
       :blocks =>
-      
+      :slam_dunks =>
     }],
   },
   :away => {
