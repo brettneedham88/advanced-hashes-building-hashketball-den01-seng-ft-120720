@@ -19,6 +19,7 @@ game_hash = {
     }
       :player_name =>
       :number =>
+      :shoe =>
       ],
   },
   :away => {
