@@ -14,7 +14,7 @@ game_hash = {
         blocks: 1,
         slam_dunks: 1
     },
-      player_name:
+      ""
       number: 
       shoe:
       points:
