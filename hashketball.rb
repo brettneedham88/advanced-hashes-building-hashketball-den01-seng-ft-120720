@@ -101,7 +101,14 @@ game_hash =
         slam_dunks: 0
       },
       "Kemba Walker" => {
-        
+        number: 33, 
+        shoe: 15,
+        points: 33,
+        rebounds: 3,
+        assists: 2,
+        steals: 1,
+        blocks: 1,
+        slam_dunks: 0
       }
   }
 }
