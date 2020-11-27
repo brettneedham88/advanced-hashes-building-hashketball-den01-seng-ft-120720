@@ -56,6 +56,7 @@ game_hash =
         slam_dunks: 1
       }
   ],
+  }
   away: {
     team_name: "Charlotte Hornets",
     colors: ["Turquoise", "Purple"],
@@ -110,7 +111,8 @@ game_hash =
         blocks: 5,
         slam_dunks: 12
       }
-  ],
+  ]
+}
 }
   
 end
