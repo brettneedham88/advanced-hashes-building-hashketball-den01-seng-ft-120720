@@ -111,8 +111,8 @@ game_hash =
         blocks: 5,
         slam_dunks: 12
       }
-  ]
-}
+    ]
+  }
 }
   
 end
