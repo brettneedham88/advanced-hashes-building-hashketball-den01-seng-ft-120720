@@ -7,6 +7,7 @@ game_hash = {
       "Black", "White"
     },
     :players => [{
+      :player_name =>
       
     }],
   },
