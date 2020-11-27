@@ -23,6 +23,7 @@ game_hash = {
       :points =>
       :rebounds =>
       :assists =>
+      :steals =>
       ],
   },
   :away => {
